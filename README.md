@@ -109,10 +109,13 @@ fai membro dell nostro  [Discord](https://discord.gg/QqrCpUBuWk) community.
 <h2> 🚩 lingue  ufficiali ( o parzialmente ufficiali ) </h2>
 </center>
 
+
+
+
 ----------------------------------------
 >[!NOTE]
 >
->le lingue non scritte come il Giapponese
+>le lingue non scritte come il Giapponese(che è al 80 % )
 >
 >oppure altre lingue meno conosciute
 >
