@@ -15,6 +15,11 @@
 	</a>
 </p>
 
+
+<center>
+<h1>ATTENZIONE ! IL PROGRAMMA SU LINUX NON è SCARIBILE MA COPIANDOLO FUNZIONA </h1>	
+</center>
+
 <center>
 <h2>ℹ️ Advanced Privacy and Security Configuration Utility</h2> 
 </center>
@@ -150,7 +155,7 @@ Lingue del gruppo BY7 non aggiuntivo DPR0.1 :
 
  1 - Visual Studio Code     -      Insiders ( cat-gawr and zenith )
 >[!CAUTION]
-> Cat ha utilizzato IDE su Linux
+> Cat ha utilizzato IDE su Linux ( e su Windows ) 
 >
 >mentre zenith su Windows
      
