@@ -27,6 +27,12 @@ futuro ci saranno altre versioni ( come la Alpha A.1.05 ) con altri linguaggi di
 <h2> 🏗️ Key Features:</h2> 
 </center>
 
+
+
+---------------------------------------------------------
+
+
+
 - Full multilingual support (24 languages available)
 - Enhance system and network performance
 - Disable unnecessary Windows services
@@ -99,32 +105,44 @@ fai membro dell nostro  [Discord](https://discord.gg/QqrCpUBuWk) community.
 </center>
 
 ----------------------------------------
+>[!NOTE]
+>
+>le lingue non scritte come il Giapponese
+>
+>oppure altre lingue meno conosciute
+>
+>o lingue come l'arabo o il polaccco verranno aggiunte
+>
+>con l'aggioramneto ufficiale 2.0 che si farà fra poco
+>
 
-- Russian: mrkaban
-- German: theflamehd
-- Turkish: Kheasyque  ( non ancora ufficiale ) 
-- Spanish: danielcshn
-- Portuguese: Cassio
-- French: RAFF47 ( NNO COMPLETATO AL 100 % , SOLO AL 56,09 % ) 
-- Italian: Ziocash
-- Chinese: btwise
-- Czech: Tom Longhorn  ( non ancora ufficiale ) 
-- Taiwanese: H3XDaemon  ( non ancora ufficiale ) 
-- Korean: VenusGirl
-- Polish: Wilamaxin
-- Arabic: MesterPerfect
-- Romanian: BeamingNG, DefaultUser9148
-- Dutch: svanlaere
-- Ukrainian: Kirill Ermakov
-- Japanese: Yamada Hayao, creeper-0910
-- Kurdish: Parwar Andam
-- Hungarian: Zan
-- Farsi: MjavadH
-- Nepali: chapagetti
-- Hellenic
-- Bulgarian ( non ancora ufficiale ) 
-- Indonesian: ftrsndrya
-- Croatian: zZan54
+LE LINGUE MESSE : 
+
+
+ - Russian: mrkaban
+ - German: theflamehd
+ - Turkish: Kheasyque  ( non ancora ufficiale ) 
+ - Spanish: danielcshn
+ - Portuguese: Cassio
+ - French: RAFF47 ( NNO COMPLETATO AL 100 % , SOLO AL 56,09 % ) 
+ - Italian: Ziocash
+ - Chinese: btwise
+ - Czech: Tom Longhorn  ( non ancora ufficiale ) 
+ - Taiwanese: H3XDaemon  ( non ancora ufficiale ) 
+ - Romanian: BeamingNG, DefaultUser9148
+ - Dutch: svanlaere
+ - Ukrainian: Kirill Ermakov
+ - Japanese: Yamada Hayao, creeper-0910
+ - Kurdish: Parwar Andam
+
+Lingue del gruppo BY7 non aggiuntivo DPR0.1 : 
+      - Hungarian: Zan
+      - Farsi: MjavadH
+      - Nepali: chapagetti
+      - Hellenic
+      - Bulgarian ( non ancora ufficiale ) 
+      - Indonesian: ftrsndrya
+      - Croatian: zZan54
 
 -------------------------------------------------
  # IDE UTILIZZATI :
