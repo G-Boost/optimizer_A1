@@ -62,35 +62,7 @@ altre versioni in futuro ⏳
 - OR -
 - Execute Optimizer with `/restart=disabledefender` switch for automated disabling
 
-<center>
-<h2>🔨 Automation using Templating</h2> 
-</center>
-
-Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/hellzerg/optimizer/blob/master/AUTOMATION.md).
-
-<center>
-<h2> 🔨 Command-line Options</h2> 
-</center>
-
-Check out the [Command-line Options](https://github.com/hellzerg/optimizer/blob/master/CONFS.md) available for Optimizer.
-
-<center>
-<h2> ❓ Frequently Asked Questions</h2> 
-</center>
-
-Find answers to common queries in the [FAQ Section](https://github.com/hellzerg/optimizer/blob/master/FAQ.md).
-
-<center>
-<h2> 📰 Changelog</h2> 
-</center>
-
-Stay updated with the latest changes through the [Changelog](https://github.com/hellzerg/optimizer/blob/master/CHANGELOG.md).
-
-<center>
-<h2>🛡️ Security Policy</h2> 
-</center>
-
-Learn about our security measures in the [Security Policy](https://github.com/hellzerg/optimizer/blob/master/SECURITY.md).
+# ALTRE COSE
 
 <center>
 <h2> 💻 Compatibility</h2> 
@@ -117,14 +89,12 @@ If you find this tool useful, consider showing your support by [donating through
 <h2> 🌐 Join our Community</h2>
 </center>
 
-Be a part of our [Discord](https://discord.gg/RmHYWMxWfJ) community.
+Be a part of our [Discord]() community.
 
 <center>
 <h2> Crediti : Cat-Gawr, theMrzentih  e pumpkinhead</h2>
 </center>
 
-- [ByteSize](https://github.com/omar/ByteSize) - A useful library by Omar Rahman
-- ColorPicker - Theme engine, courtesy of cat ([GitHub Profile](https://github.com/vadiscode))
 
 <center>
 <h2> 🚩 lingue  ufficial</h2>
