@@ -166,8 +166,7 @@ Lingue del gruppo BY7 non aggiuntivo DPR0.1 :
 
  4 - ATOM per i test di debug e di file 
 
-copyright nei termini di servizio / ToS / TOS
-
+----------------------------------------
 
 
 # IDE IN CUI PUOI MODIFICARE IL PROGRAMMA :
@@ -294,4 +293,9 @@ copyright nei termini di servizio / ToS / TOS
 
 <center>
 <h2> Crediti : Cat-Gawr, theMrzentih  e pumpkinhead</h2>
+</center>
+
+<center>
+	<h1>copyright nei termini di servizio / ToS / TOS
+</h1>
 </center>
