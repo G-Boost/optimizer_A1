@@ -127,8 +127,142 @@ fai membro dell nostro  [Discord](https://discord.gg/QqrCpUBuWk) community.
 - Croatian: zZan54
 
 -------------------------------------------------
+ # IDE UTILIZZATI :
+
+ 1 - Visual Studio Code     -      Insiders ( cat-gawr and zenith )
+>[!CAUTION]
+> Cat ha utilizzato IDE su Linux
+>
+>mentre zenith su Windows
+     
+     
+ 2 - Vim ( cat-gawr su EndeavourOS con sway )
+
+ 3 - Visual studio code ( pumpkin ) 
+
+ 4 - ATOM per i test di debug e di file 
 
 copyright nei termini di servizio / ToS / TOS
+
+
+
+# IDE IN CUI PUOI MODIFICARE IL PROGRAMMA :
+
+    - Visual Studio Code
+    
+    - Visual Studio
+      - il Fork di VsCode ovvero  Cursor 
+      - il Fork di VsCode ovvero  VSCodium
+   
+    - PyCharm
+    
+    - Sublime Text
+    
+    - Notepad++
+    
+    - Atom
+    
+    - Eclipse
+    
+    - IntelliJ IDEA
+    
+    - NetBeans
+    
+    - Android Studio
+    
+    
+    - Xcode( solo per Mac )
+    
+    - WebStorm
+      - PhpStorm
+      - DataGrip 
+      - RubyMine
+    
+    - AppCode
+    
+    - CLion
+    
+    - DataGrip
+    
+    - Rider
+    
+    - GoLand
+    
+    - PyCharm Edu( solo per Linux , non cambia nulla se è su un'altro OS )
+    
+    - Brackets
+    
+    - Vim( solo per Linux , ma anche per il OS di Apple [ Mac os ] )     
+    
+    - Emacs
+    
+    - nano
+    
+    - Geany
+    
+    - Bluefish
+    
+    - Kate
+    
+    - Code::Blocks
+    
+    - Anjuta
+    
+    - KDevelop
+    
+    - Lazarus
+    
+    - MonoDevelop   
+    
+    - CodeLite      
+    
+    - JCreator
+    
+    - DrJava
+    
+    - Notepadqq
+    
+    - Gedit
+    
+    - Kate
+    
+    - KWrite ( solo ed escusivamente su Linux )
+    
+    - SciTE
+    
+    - Kile
+    
+    - WinEdt
+    
+    - LyX
+    
+    - TeXShop
+    
+      - TeXworks
+      
+      
+      - TeXstudio
+    
+    - TeXnicCenter
+      
+      - TeXmaker
+        
+        - TeXpen
+ 
+     - TeXlipse
+     
+        - TeXmacs
+     
+        - TeXShade
+          
+            - TeX2pag(e)
+          
+            - TeX2RTF
+
+                - TeX2HTML ( in questo caso tutti gli TeX saranno in ritardo di 1-8 giorni )
+
+
+-----------------------------
 
 <center>
 <h2> Crediti : Cat-Gawr, theMrzentih  e pumpkinhead</h2>
