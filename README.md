@@ -90,7 +90,7 @@ non ho link, boh
 <h2> 🌐 Join our Community</h2>
 </center>
 
-Be a part of our [Discord]() community.
+Be a part of our [Discord](https://discord.gg/QqrCpUBuWk) community.
 
 
 
