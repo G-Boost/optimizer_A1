@@ -90,12 +90,12 @@ non ho link, boh
 <h2> 🌐 Join our Community</h2>
 </center>
 
-Be a part of our [Discord](https://discord.gg/QqrCpUBuWk) community.
+fai membro dell nostro  [Discord](https://discord.gg/QqrCpUBuWk) community.
 
 
 
 <center>
-<h2> 🚩 lingue  ufficial</h2>
+<h2> 🚩 lingue  ufficiali ( o parzialmente ufficiali ) </h2>
 </center>
 
 ----------------------------------------
@@ -105,7 +105,7 @@ Be a part of our [Discord](https://discord.gg/QqrCpUBuWk) community.
 - Turkish: Kheasyque  ( non ancora ufficiale ) 
 - Spanish: danielcshn
 - Portuguese: Cassio
-- French: RAFF47
+- French: RAFF47 ( NNO COMPLETATO AL 100 % , SOLO AL 56,09 % ) 
 - Italian: Ziocash
 - Chinese: btwise
 - Czech: Tom Longhorn  ( non ancora ufficiale ) 
