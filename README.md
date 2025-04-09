@@ -76,7 +76,7 @@ altre versioni in futuro ⏳
 <h2> 📊 Details</h2> 
 </center>
 
-- Latest version: 16.7 (Released: August 18, 2024)
+- Latest version: 1.0 del non ricordo
 - SHA256: 03A234060541B686AC4265754AFF43DF9325C21383F90E17F831E67965D717F8
 
 <center>
