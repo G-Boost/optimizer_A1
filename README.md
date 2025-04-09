@@ -167,6 +167,10 @@ copyright nei termini di servizio / ToS / TOS
 
 # IDE IN CUI PUOI MODIFICARE IL PROGRAMMA :
 
+    - Visual Studio Codde  - insiders
+
+    - Visual studio 2022
+    
     - Visual Studio Code
     
     - Visual Studio
