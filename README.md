@@ -83,7 +83,8 @@ altre versioni in futuro ⏳
 <h2> ☕ Buy me a delicious espresso</h2>
 </center>
 
-If you find this tool useful, consider showing your support by [donating through PayPal](https://www.paypal.com/paypalme/supportoptimizer).
+non ho link, boh 
+
 
 <center>
 <h2> 🌐 Join our Community</h2>
@@ -91,9 +92,6 @@ If you find this tool useful, consider showing your support by [donating through
 
 Be a part of our [Discord]() community.
 
-<center>
-<h2> Crediti : Cat-Gawr, theMrzentih  e pumpkinhead</h2>
-</center>
 
 
 <center>
@@ -131,4 +129,7 @@ Be a part of our [Discord]() community.
 -------------------------------------------------
 
 copyright nei termini di servizio / ToS / TOS
-- [EN.json](https://github.com/hellzerg/optimizer/blob/master/Optimizer/Resources/i18n/EN.json)
+
+<center>
+<h2> Crediti : Cat-Gawr, theMrzentih  e pumpkinhead</h2>
+</center>
