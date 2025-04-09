@@ -136,6 +136,7 @@ LE LINGUE MESSE :
  - Kurdish: Parwar Andam
 
 Lingue del gruppo BY7 non aggiuntivo DPR0.1 : 
+
       - Hungarian: Zan
       - Farsi: MjavadH
       - Nepali: chapagetti
